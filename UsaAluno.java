@@ -1,4 +1,4 @@
-package com.jennerson.unipe.java.aula1;
+package br.com.jennerson;
 
 public class UsaAluno {
 	
